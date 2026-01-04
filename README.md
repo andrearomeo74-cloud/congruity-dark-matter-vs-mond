@@ -7,7 +7,9 @@ This repository is a **theoretical** Congruity 7.0 extension applied to the long
 This repository presents a **theoretical, non-operational framework** for reframing
 the Dark Matter vs Modified Gravity dilemma as a **regime-dependent coherence problem**.
 
+This repository is intentionally conceptual and structurally complete. See individual documents for scope and limitations.
 It does **not** propose new physical constants, parameter fits, or executable models.
+
 All formulations are conceptual and intended to clarify inference structure,
 not to replace or extend existing cosmological theories.
 
