@@ -30,10 +30,9 @@ Interpretation (conceptual):
 ❌ No claim of new physical constants; requires empirical validation and peer review
 
 ## Contents
-- `dark-matter-vs-mond/index.md` — overview and framing
-- `dark-matter-vs-mond/minimal-model.md` — minimal formalization (bounded, non-operational)
-- `dark-matter-vs-mond/regime-invariance.md` — what is invariant across regimes
-- `dark-matter-vs-mond/predictions.md` — falsifiable implications (conceptual)
 
-## License
+- `dark-matter-vs-mond/overview.md` — overview and regime-based framing
+- `dark-matter-vs-mond/minimal-model.md` — minimal congruity formulation (conceptual, non-operational)
+- `dark-matter-vs-mond/regime-invariance.md` — regime invariants
+- `dark-matter-vs-mond/falsifiability.md` — falsifiable implications (conceptual)
 Text is published under the repository license. This license does **not** grant any patent rights.
