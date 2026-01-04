@@ -91,5 +91,6 @@ This document is:
 - Non-empirical
 
 It provides a falsifiability *language*, not a falsification *experiment*.
+
 Empirical validation remains the responsibility of domain-specific models and
 observations.
