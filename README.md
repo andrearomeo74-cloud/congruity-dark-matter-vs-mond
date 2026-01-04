@@ -2,7 +2,17 @@
 
 This repository is a **theoretical** Congruity 7.0 extension applied to the long-standing cosmology dilemma:
 **Dark Matter (ΛCDM) vs Modified Gravity (MOND-like)**.
+## Scope and intent
 
+This repository presents a **theoretical, non-operational framework** for reframing
+the Dark Matter vs Modified Gravity dilemma as a **regime-dependent coherence problem**.
+
+It does **not** propose new physical constants, parameter fits, or executable models.
+All formulations are conceptual and intended to clarify inference structure,
+not to replace or extend existing cosmological theories.
+
+Dark Matter (ΛCDM) and MOND-like approaches are treated as **local maxima of coherence**
+under different structural and inferential regimes.
 Core claim (theoretical):
 > The “tension” is not primarily a dispute about entities (matter) vs laws (gravity),
 > but about **regime-dependent coherence** under bounded information and structural coupling.
