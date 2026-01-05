@@ -82,7 +82,17 @@ This reframing preserves scientific rigor while avoiding false dichotomies
 between competing explanatory frameworks.
 
 ---
+## Bounded falsification signal (conceptual)
 
+Within a regime-based congruity perspective, a potential falsification signal does not arise from the failure of a specific entity (e.g. dark matter particles) or law modification, but from the breakdown of proportional compensation.
+
+Conceptually, a coherence breakdown would be indicated if an observational regime were identified where:
+
+- energetic and/or structural demands (E/S) exceed informational closure (I),
+- no compensatory strategy (mass addition, law modification, or closure shift) restores stability of functional value (V),
+- and additional complexity systematically reduces explanatory or predictive value.
+
+Such a case would not falsify a specific theory, but would signal the emergence of a new inferential regime outside the closure domain of both dark matter–like and MOND-like strategies.
 ## Status
 
 This document is:
