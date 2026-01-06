@@ -48,3 +48,18 @@ Interpretation (conceptual):
 - `dark-matter-vs-mond/regime-invariance.md` — regime invariants
 - `dark-matter-vs-mond/falsifiability.md` — falsifiable implications (conceptual)
 Text is published under the repository license. This license does **not** grant any patent rights.
+
+## Regime framing (why “DM vs MOND” is often the wrong question)
+
+This repository does **not** propose a new gravity theory, nor does it attempt to “pick a winner” between Dark Matter and MOND.
+
+Instead, it frames the tension as a **regime + admissibility** problem:
+
+- **Dark Matter–like explanations** tend to be congruent when the observed dynamics require additional degrees of freedom across large scales, where structure formation, lensing, and multi-system closure dominate.
+- **MOND-like explanations** tend to be congruent in specific low-acceleration regimes where local dynamical regularities compress the description and reduce model complexity.
+
+In Congruity terms, these approaches can be understood as **different closures under different constraints** (scale, density, information, and observational coupling).  
+What looks like a contradiction may be a sign that we are forcing a single explanatory grammar onto multiple physical regimes.
+
+**Key claim (framework-level):** the core question is not “DM or MOND?”, but  
+**which modeling grammar remains admissible under the constraints of the regime being measured.**
